@@ -1,0 +1,26 @@
+{
+  "feature_names": [
+    "age",
+    "tenure_months",
+    "monthly_charges",
+    "total_charges",
+    "contract_type",
+    "internet_service",
+    "payment_method",
+    "num_support_tickets",
+    "customer_satisfaction"
+  ],
+  "numerical_cols": [
+    "age",
+    "tenure_months",
+    "monthly_charges",
+    "total_charges",
+    "num_support_tickets",
+    "customer_satisfaction"
+  ],
+  "categorical_cols": [
+    "contract_type",
+    "internet_service",
+    "payment_method"
+  ]
+}

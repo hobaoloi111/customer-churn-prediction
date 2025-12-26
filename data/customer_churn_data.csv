@@ -1,0 +1,451 @@
+customer_id,age,tenure_months,monthly_charges,total_charges,contract_type,internet_service,payment_method,num_support_tickets,customer_satisfaction,churn
+CUST_000001,52,55,75.96,4028.6,Month-to-Month,Fiber optic,Check,0,4,1
+CUST_000002,42,46,125.03,5909.74,Month-to-Month,Fiber optic,Bank transfer,0,4,1
+CUST_000003,54,41,74.3,2976.66,Month-to-Month,DSL,E-check,2,3,0
+CUST_000004,67,44,60.09,2643.09,Month-to-Month,DSL,E-check,1,3,0
+CUST_000005,41,36,95.03,3347.28,Two Year,DSL,Bank transfer,2,3,0
+CUST_000006,41,34,138.55,4538.21,One Year,DSL,Check,1,4,0
+CUST_000007,68,45,68.31,3113.78,Two Year,DSL,Bank transfer,2,3,1
+CUST_000008,56,47,37.76,1695.63,One Year,Fiber optic,Check,1,3,0
+CUST_000009,37,44,109.68,4945.91,Month-to-Month,DSL,E-check,2,3,1
+CUST_000010,53,33,138.2,4477.41,One Year,DSL,Bank transfer,1,3,0
+CUST_000011,38,48,26.5,1208.42,One Year,Fiber optic,E-check,3,4,1
+CUST_000012,38,35,43.58,1527.0,Month-to-Month,No,Check,3,3,1
+CUST_000013,48,42,32.86,1317.58,One Year,Fiber optic,E-check,3,3,1
+CUST_000014,18,38,58.71,2181.04,Month-to-Month,DSL,Credit card,2,4,0
+CUST_000015,19,35,80.35,2870.46,One Year,DSL,Check,1,3,1
+CUST_000016,36,24,126.32,2899.1,One Year,No,Bank transfer,3,3,1
+CUST_000017,29,39,101.16,4079.12,Month-to-Month,DSL,Credit card,1,3,1
+CUST_000018,49,36,96.93,3316.34,Month-to-Month,DSL,Bank transfer,1,3,1
+CUST_000019,31,41,71.2,2845.29,Two Year,Fiber optic,E-check,1,3,0
+CUST_000020,23,32,140.58,4606.93,One Year,Fiber optic,Check,2,3,0
+CUST_000021,66,44,75.98,3281.7,Month-to-Month,Fiber optic,E-check,0,5,0
+CUST_000022,41,45,150.0,6481.28,Two Year,DSL,E-check,1,3,1
+CUST_000023,46,50,98.78,4869.97,Month-to-Month,DSL,Bank transfer,1,3,0
+CUST_000024,23,27,30.44,803.01,One Year,No,Credit card,1,3,1
+CUST_000025,36,43,125.6,5585.89,Two Year,DSL,Bank transfer,1,4,1
+CUST_000026,46,43,55.51,2342.38,Month-to-Month,Fiber optic,Bank transfer,3,4,1
+CUST_000027,27,35,106.09,3820.43,Month-to-Month,Fiber optic,Bank transfer,0,3,1
+CUST_000028,50,49,19.75,1005.67,Month-to-Month,Fiber optic,Credit card,2,3,1
+CUST_000029,35,43,34.48,1472.83,Month-to-Month,DSL,Bank transfer,2,3,0
+CUST_000030,40,33,129.8,4459.0,Month-to-Month,DSL,Bank transfer,0,3,0
+CUST_000031,35,36,45.99,1635.33,One Year,Fiber optic,Bank transfer,2,2,0
+CUST_000032,72,45,127.19,5989.17,Month-to-Month,No,Bank transfer,1,3,1
+CUST_000033,44,33,54.01,1709.13,One Year,No,E-check,3,3,1
+CUST_000034,29,30,120.0,3667.33,Two Year,DSL,Check,1,4,1
+CUST_000035,57,55,128.62,7069.72,Two Year,DSL,E-check,4,3,0
+CUST_000036,26,31,89.95,2757.12,One Year,No,Credit card,0,4,0
+CUST_000037,48,57,52.74,3046.08,Month-to-Month,Fiber optic,Bank transfer,2,3,0
+CUST_000038,18,37,43.75,1651.75,One Year,No,Check,1,3,1
+CUST_000039,25,43,16.11,658.4,One Year,DSL,Credit card,1,3,0
+CUST_000040,47,42,57.81,2347.16,One Year,Fiber optic,Bank transfer,7,1,1
+CUST_000041,56,47,101.44,4869.25,Month-to-Month,Fiber optic,Bank transfer,3,3,1
+CUST_000042,47,36,150.0,5489.85,Two Year,Fiber optic,Bank transfer,1,2,0
+CUST_000043,43,39,145.17,5925.49,One Year,DSL,Bank transfer,2,3,0
+CUST_000044,40,35,117.25,4210.87,Month-to-Month,DSL,Credit card,5,3,1
+CUST_000045,22,38,120.38,4780.64,Month-to-Month,Fiber optic,Check,2,3,1
+CUST_000046,34,38,113.41,4396.87,One Year,DSL,Bank transfer,3,3,0
+CUST_000047,38,39,55.73,2129.58,Two Year,Fiber optic,Bank transfer,1,2,0
+CUST_000048,60,44,150.0,6339.54,Two Year,No,Check,1,3,1
+CUST_000049,50,51,124.68,6537.88,Two Year,DSL,Bank transfer,0,5,0
+CUST_000050,18,35,88.46,3140.73,Month-to-Month,No,Credit card,3,3,1
+CUST_000051,49,42,28.09,1126.48,One Year,DSL,E-check,3,3,1
+CUST_000052,39,33,79.85,2598.17,One Year,Fiber optic,Bank transfer,3,3,1
+CUST_000053,34,53,74.45,4126.1,Month-to-Month,No,Bank transfer,1,3,0
+CUST_000054,54,35,131.04,4586.58,Month-to-Month,DSL,Credit card,1,4,1
+CUST_000055,60,50,103.84,5157.07,Two Year,DSL,Credit card,2,3,1
+CUST_000056,58,40,63.26,2519.7,Month-to-Month,DSL,Credit card,0,4,0
+CUST_000057,32,34,150.0,4951.53,One Year,DSL,Check,0,3,0
+CUST_000058,40,36,25.5,905.95,Month-to-Month,Fiber optic,Bank transfer,5,2,1
+CUST_000059,49,48,69.16,3276.46,Month-to-Month,No,Credit card,2,4,1
+CUST_000060,59,45,15.88,682.61,Month-to-Month,DSL,Credit card,2,2,0
+CUST_000061,37,40,136.3,5597.88,Two Year,DSL,Bank transfer,0,4,0
+CUST_000062,42,42,150.0,6247.4,Two Year,DSL,Check,0,4,1
+CUST_000063,28,38,59.05,2316.19,Two Year,Fiber optic,Bank transfer,1,3,1
+CUST_000064,27,44,143.18,6520.64,One Year,DSL,Credit card,2,3,0
+CUST_000065,57,43,50.91,2126.08,Month-to-Month,Fiber optic,Bank transfer,0,4,0
+CUST_000066,65,48,150.0,7313.29,One Year,Fiber optic,Credit card,2,3,0
+CUST_000067,43,53,127.11,6718.16,One Year,Fiber optic,Credit card,1,5,0
+CUST_000068,60,51,147.22,7793.65,Two Year,DSL,Check,3,2,0
+CUST_000069,50,38,12.52,462.24,Month-to-Month,Fiber optic,Bank transfer,1,3,1
+CUST_000070,35,43,150.0,6564.69,One Year,DSL,Credit card,0,4,1
+CUST_000071,50,55,111.73,6211.37,Month-to-Month,DSL,Credit card,1,5,1
+CUST_000072,68,43,52.67,2218.45,Month-to-Month,No,Check,2,3,1
+CUST_000073,44,39,150.0,5637.41,Two Year,Fiber optic,Credit card,2,3,0
+CUST_000074,68,48,54.35,2648.36,One Year,DSL,Check,4,3,0
+CUST_000075,18,27,132.19,3654.29,Month-to-Month,DSL,Check,2,3,0
+CUST_000076,57,40,25.76,1011.4,Month-to-Month,DSL,E-check,0,4,1
+CUST_000077,46,50,119.37,6054.94,One Year,DSL,Credit card,1,3,0
+CUST_000078,40,37,102.84,3765.18,Two Year,DSL,Credit card,3,3,1
+CUST_000079,46,48,28.22,1383.44,Two Year,DSL,Check,2,3,1
+CUST_000080,18,40,52.64,2042.27,Two Year,Fiber optic,E-check,1,2,0
+CUST_000081,41,38,14.08,555.92,Two Year,Fiber optic,E-check,1,4,0
+CUST_000082,50,47,75.63,3479.04,Month-to-Month,Fiber optic,Credit card,0,5,0
+CUST_000083,67,50,57.39,2831.56,One Year,Fiber optic,Bank transfer,6,3,1
+CUST_000084,37,34,103.15,3352.12,One Year,DSL,Credit card,3,3,1
+CUST_000085,32,40,51.61,1984.2,Month-to-Month,No,Check,0,3,1
+CUST_000086,37,54,62.39,3374.4,Two Year,No,Credit card,2,3,0
+CUST_000087,58,52,114.05,5792.77,Month-to-Month,No,Credit card,0,5,0
+CUST_000088,49,46,20.09,955.14,Two Year,No,Check,4,2,0
+CUST_000089,37,41,150.0,5851.54,One Year,No,Credit card,0,3,0
+CUST_000090,52,45,142.25,6323.86,One Year,Fiber optic,E-check,2,3,1
+CUST_000091,46,52,113.84,5823.39,One Year,DSL,Credit card,2,3,0
+CUST_000092,59,50,111.66,5314.64,Two Year,Fiber optic,Credit card,1,2,1
+CUST_000093,34,28,148.41,3999.39,One Year,Fiber optic,Credit card,1,3,0
+CUST_000094,40,49,39.54,1920.73,One Year,Fiber optic,Check,1,3,1
+CUST_000095,39,39,21.06,820.75,Month-to-Month,Fiber optic,Bank transfer,4,3,1
+CUST_000096,23,38,47.88,1802.03,One Year,DSL,Bank transfer,3,3,0
+CUST_000097,49,42,121.24,5107.83,Month-to-Month,DSL,E-check,1,4,0
+CUST_000098,48,50,17.82,899.48,Two Year,No,Bank transfer,2,3,1
+CUST_000099,45,38,100.75,3640.87,One Year,Fiber optic,Credit card,1,4,1
+CUST_000100,41,35,150.0,5231.15,One Year,Fiber optic,Credit card,1,3,0
+CUST_000101,23,37,129.8,5025.2,Month-to-Month,DSL,Credit card,3,3,1
+CUST_000102,38,52,83.0,4324.21,Month-to-Month,DSL,Check,3,3,1
+CUST_000103,39,43,22.69,992.99,Two Year,No,Bank transfer,0,5,0
+CUST_000104,32,32,126.39,3968.39,Month-to-Month,Fiber optic,Credit card,1,4,1
+CUST_000105,42,43,93.86,4146.56,Month-to-Month,Fiber optic,Credit card,1,2,0
+CUST_000106,51,34,26.09,911.27,Month-to-Month,Fiber optic,Check,3,4,0
+CUST_000107,73,46,27.77,1280.14,Two Year,Fiber optic,Bank transfer,1,4,0
+CUST_000108,47,46,150.0,7228.45,Two Year,DSL,Credit card,1,3,0
+CUST_000109,48,50,103.69,4990.37,Month-to-Month,Fiber optic,Bank transfer,2,3,1
+CUST_000110,43,43,126.1,5160.37,Month-to-Month,DSL,Bank transfer,0,5,1
+CUST_000111,18,34,133.06,4646.26,Month-to-Month,DSL,Bank transfer,0,4,1
+CUST_000112,44,36,108.06,4009.65,Two Year,Fiber optic,Bank transfer,2,3,1
+CUST_000113,45,42,90.69,3664.32,One Year,No,Check,2,4,1
+CUST_000114,80,58,70.26,3979.55,Month-to-Month,DSL,Bank transfer,2,2,0
+CUST_000115,42,47,54.37,2432.11,Month-to-Month,No,E-check,2,2,0
+CUST_000116,49,40,70.84,2775.03,Month-to-Month,DSL,E-check,1,3,1
+CUST_000117,44,50,130.18,6686.79,One Year,DSL,Credit card,4,3,0
+CUST_000118,27,42,113.12,4759.57,Two Year,DSL,Bank transfer,2,3,0
+CUST_000119,62,39,134.95,5183.1,Month-to-Month,DSL,Credit card,2,2,0
+CUST_000120,56,51,72.07,3628.43,Month-to-Month,Fiber optic,Check,3,4,0
+CUST_000121,56,54,94.99,4873.68,Month-to-Month,DSL,Credit card,1,3,1
+CUST_000122,31,43,118.06,4974.95,Two Year,Fiber optic,Bank transfer,3,2,0
+CUST_000123,66,46,92.84,4333.19,Month-to-Month,No,Credit card,2,2,1
+CUST_000124,23,31,130.04,4222.4,Two Year,DSL,Check,1,3,0
+CUST_000125,53,39,47.56,1919.21,One Year,Fiber optic,Check,2,4,1
+CUST_000126,77,52,81.73,4047.49,Month-to-Month,DSL,Bank transfer,2,3,1
+CUST_000127,30,47,24.59,1201.79,Month-to-Month,Fiber optic,Check,1,4,0
+CUST_000128,36,36,63.83,2362.96,Month-to-Month,DSL,Bank transfer,1,2,1
+CUST_000129,46,46,86.1,4071.65,One Year,DSL,Bank transfer,0,4,1
+CUST_000130,37,44,121.57,5326.61,Two Year,DSL,E-check,3,3,0
+CUST_000131,21,38,150.0,5641.86,One Year,DSL,Bank transfer,1,3,1
+CUST_000132,46,49,103.5,4971.55,One Year,DSL,Bank transfer,2,2,0
+CUST_000133,29,47,114.1,5129.8,Month-to-Month,Fiber optic,Bank transfer,3,3,1
+CUST_000134,52,55,97.05,5192.69,Two Year,No,E-check,0,4,0
+CUST_000135,31,39,118.53,4505.53,Two Year,No,Check,4,3,1
+CUST_000136,68,46,19.93,915.32,Month-to-Month,Fiber optic,Check,3,3,1
+CUST_000137,33,42,54.74,2355.97,Two Year,DSL,Check,1,2,0
+CUST_000138,40,35,66.73,2329.43,One Year,DSL,Bank transfer,0,3,0
+CUST_000139,57,41,83.76,3282.32,One Year,DSL,Credit card,1,2,0
+CUST_000140,26,29,19.67,596.54,Two Year,DSL,Credit card,1,4,0
+CUST_000141,48,41,35.52,1520.79,Two Year,Fiber optic,Bank transfer,1,3,1
+CUST_000142,64,53,53.63,2923.45,One Year,Fiber optic,Credit card,3,2,0
+CUST_000143,20,31,146.01,4748.7,Month-to-Month,DSL,E-check,2,4,1
+CUST_000144,47,53,56.39,3001.96,Month-to-Month,DSL,Bank transfer,0,4,0
+CUST_000145,48,47,92.98,4572.29,Two Year,No,Bank transfer,2,2,1
+CUST_000146,56,45,37.45,1613.73,Month-to-Month,Fiber optic,Bank transfer,2,3,1
+CUST_000147,26,38,95.51,3580.63,Month-to-Month,DSL,Bank transfer,0,3,1
+CUST_000148,25,31,54.23,1634.96,One Year,No,E-check,2,4,1
+CUST_000149,52,35,42.88,1455.15,One Year,No,Credit card,4,4,0
+CUST_000150,49,40,90.55,3491.9,One Year,DSL,Credit card,3,4,0
+CUST_000151,48,41,12.92,536.2,Two Year,DSL,Check,2,3,1
+CUST_000152,50,50,11.07,569.07,Month-to-Month,Fiber optic,Bank transfer,3,3,0
+CUST_000153,34,42,40.67,1721.51,Month-to-Month,No,Credit card,1,3,1
+CUST_000154,48,49,15.14,715.67,Month-to-Month,No,Credit card,1,2,1
+CUST_000155,49,47,30.15,1461.14,Two Year,DSL,Credit card,3,3,1
+CUST_000156,34,41,63.18,2625.6,One Year,DSL,E-check,2,3,0
+CUST_000157,72,49,122.36,5928.59,Month-to-Month,Fiber optic,Check,1,2,0
+CUST_000158,52,37,108.1,4069.35,Two Year,Fiber optic,Credit card,2,3,0
+CUST_000159,27,43,98.13,4118.28,Two Year,DSL,Check,2,4,0
+CUST_000160,54,51,61.31,3078.4,Two Year,No,Bank transfer,0,5,0
+CUST_000161,30,35,150.0,5469.18,Two Year,Fiber optic,Bank transfer,2,2,0
+CUST_000162,56,53,65.58,3402.92,Month-to-Month,No,Bank transfer,0,3,0
+CUST_000163,62,44,26.63,1168.2,Two Year,No,Credit card,1,3,0
+CUST_000164,32,37,106.03,4076.17,One Year,Fiber optic,Credit card,5,4,0
+CUST_000165,59,59,31.12,1874.22,Two Year,DSL,Check,4,2,1
+CUST_000166,51,60,70.0,4016.13,Two Year,Fiber optic,E-check,3,3,0
+CUST_000167,57,41,97.25,3846.62,Two Year,DSL,Credit card,1,2,1
+CUST_000168,73,60,145.63,8307.76,One Year,Fiber optic,Credit card,2,3,0
+CUST_000169,41,49,79.1,3926.64,Month-to-Month,DSL,Bank transfer,0,4,0
+CUST_000170,33,44,119.15,5215.17,One Year,Fiber optic,Bank transfer,5,3,0
+CUST_000171,31,35,150.0,5057.99,Two Year,DSL,Credit card,1,3,1
+CUST_000172,32,53,34.09,1889.51,Two Year,DSL,Credit card,1,4,1
+CUST_000173,43,36,48.46,1749.73,Month-to-Month,DSL,Check,0,3,1
+CUST_000174,50,57,65.24,3622.7,Month-to-Month,DSL,Bank transfer,0,4,0
+CUST_000175,49,49,69.06,3384.14,Month-to-Month,Fiber optic,Bank transfer,2,4,1
+CUST_000176,57,61,81.05,5032.86,Two Year,Fiber optic,Credit card,2,2,1
+CUST_000177,45,40,150.0,5745.74,Two Year,Fiber optic,Bank transfer,3,4,0
+CUST_000178,66,45,109.96,4836.72,Month-to-Month,DSL,Bank transfer,1,3,0
+CUST_000179,41,32,104.62,3450.61,One Year,DSL,Check,1,2,1
+CUST_000180,80,52,63.97,3313.02,Two Year,DSL,Bank transfer,0,4,0
+CUST_000181,54,35,150.0,5274.45,Two Year,DSL,Check,3,2,1
+CUST_000182,32,41,150.0,6108.68,One Year,No,Bank transfer,1,3,0
+CUST_000183,28,35,137.46,4591.67,One Year,DSL,Bank transfer,0,3,1
+CUST_000184,52,55,11.24,597.54,One Year,DSL,Credit card,0,3,1
+CUST_000185,41,38,99.1,3745.29,Month-to-Month,DSL,Check,0,3,1
+CUST_000186,55,55,18.87,1007.67,One Year,DSL,Credit card,2,4,1
+CUST_000187,52,54,50.67,2613.05,One Year,Fiber optic,Check,4,4,0
+CUST_000188,43,48,22.0,1092.29,Two Year,Fiber optic,Bank transfer,0,4,1
+CUST_000189,32,40,103.98,4359.34,One Year,DSL,Check,0,5,1
+CUST_000190,22,42,127.35,5505.49,Two Year,DSL,Bank transfer,0,4,0
+CUST_000191,38,40,26.03,1078.04,Month-to-Month,DSL,Check,1,3,1
+CUST_000192,57,43,70.11,2936.94,One Year,DSL,Credit card,4,4,1
+CUST_000193,48,42,73.87,3245.45,Month-to-Month,DSL,E-check,1,3,0
+CUST_000194,26,34,61.67,2033.23,Month-to-Month,No,Credit card,0,3,0
+CUST_000195,47,29,32.33,979.89,Two Year,Fiber optic,Bank transfer,1,3,0
+CUST_000196,50,44,82.38,3804.08,Two Year,Fiber optic,Bank transfer,3,4,0
+CUST_000197,31,46,115.16,5409.52,Month-to-Month,DSL,Check,1,4,0
+CUST_000198,47,43,21.94,988.81,One Year,DSL,Credit card,0,4,1
+CUST_000199,45,57,25.47,1461.89,Two Year,Fiber optic,Check,3,3,0
+CUST_000200,27,41,59.67,2387.64,Month-to-Month,Fiber optic,Bank transfer,0,4,0
+CUST_000201,50,59,150.0,8794.24,One Year,Fiber optic,Credit card,4,3,0
+CUST_000202,53,48,124.32,6023.19,Two Year,DSL,Bank transfer,1,3,0
+CUST_000203,61,44,115.52,4865.88,One Year,Fiber optic,E-check,1,3,1
+CUST_000204,60,43,60.67,2640.73,Month-to-Month,DSL,Check,0,4,0
+CUST_000205,24,44,93.11,4293.97,Month-to-Month,No,E-check,3,3,0
+CUST_000206,30,38,13.7,504.47,Two Year,Fiber optic,Bank transfer,1,2,0
+CUST_000207,52,50,108.96,5607.41,One Year,Fiber optic,Check,1,3,1
+CUST_000208,52,53,137.86,7604.61,Month-to-Month,DSL,Check,2,4,1
+CUST_000209,52,40,114.91,4800.34,Two Year,Fiber optic,Credit card,2,3,1
+CUST_000210,80,57,132.32,7889.29,Month-to-Month,DSL,Check,1,3,0
+CUST_000211,53,36,133.63,4821.0,Two Year,DSL,E-check,1,3,1
+CUST_000212,62,44,26.88,1239.17,Month-to-Month,DSL,E-check,2,3,1
+CUST_000213,59,51,150.0,7846.84,Two Year,Fiber optic,Check,4,2,0
+CUST_000214,54,37,19.3,689.94,Month-to-Month,DSL,Bank transfer,2,3,1
+CUST_000215,40,41,84.76,3467.13,Month-to-Month,DSL,Bank transfer,1,3,0
+CUST_000216,56,51,29.9,1558.19,Month-to-Month,No,E-check,2,3,1
+CUST_000217,33,29,11.64,329.03,Month-to-Month,DSL,Bank transfer,2,3,0
+CUST_000218,41,46,82.9,3867.02,Two Year,Fiber optic,Check,2,3,0
+CUST_000219,37,50,61.57,3129.79,Two Year,DSL,Check,0,5,0
+CUST_000220,46,44,78.04,3317.94,Month-to-Month,DSL,Check,4,3,0
+CUST_000221,79,61,99.89,6132.95,One Year,Fiber optic,E-check,2,3,1
+CUST_000222,18,39,19.35,775.15,Two Year,DSL,Credit card,1,3,1
+CUST_000223,55,42,32.66,1371.57,Two Year,Fiber optic,Credit card,3,3,1
+CUST_000224,20,43,97.03,3968.73,One Year,Fiber optic,Bank transfer,2,3,0
+CUST_000225,37,46,58.04,2538.76,Month-to-Month,Fiber optic,Credit card,0,4,0
+CUST_000226,61,53,123.29,6440.95,One Year,Fiber optic,Bank transfer,2,3,0
+CUST_000227,45,46,111.45,5345.2,One Year,DSL,Credit card,2,2,0
+CUST_000228,28,32,128.38,3996.7,Month-to-Month,DSL,Check,1,3,1
+CUST_000229,34,49,117.64,5841.81,One Year,Fiber optic,E-check,3,3,0
+CUST_000230,55,54,70.19,3684.92,Month-to-Month,Fiber optic,Bank transfer,1,4,0
+CUST_000231,34,38,125.06,4667.53,Two Year,No,Credit card,1,3,1
+CUST_000232,48,38,48.55,1909.11,Month-to-Month,No,E-check,2,3,1
+CUST_000233,45,51,58.17,3034.57,One Year,No,Bank transfer,0,4,1
+CUST_000234,35,43,132.5,5466.98,One Year,Fiber optic,Bank transfer,1,2,0
+CUST_000235,77,56,79.75,4434.16,One Year,DSL,Bank transfer,1,5,0
+CUST_000236,54,53,121.77,6149.95,Month-to-Month,Fiber optic,Credit card,2,2,1
+CUST_000237,18,41,137.65,5632.87,One Year,Fiber optic,Bank transfer,1,4,0
+CUST_000238,47,62,143.06,9013.79,One Year,DSL,E-check,2,3,1
+CUST_000239,35,43,150.0,6203.93,One Year,No,Credit card,2,3,0
+CUST_000240,57,52,77.37,3938.3,One Year,No,Credit card,0,4,0
+CUST_000241,33,36,60.11,2141.85,One Year,Fiber optic,Bank transfer,5,4,1
+CUST_000242,43,31,109.81,3546.92,Two Year,DSL,Credit card,3,2,0
+CUST_000243,52,43,61.96,2795.7,Month-to-Month,DSL,Check,0,3,0
+CUST_000244,57,53,112.98,5715.44,Two Year,No,Check,1,4,0
+CUST_000245,26,43,119.66,5279.68,One Year,No,Check,1,2,1
+CUST_000246,39,42,106.38,4410.65,Month-to-Month,DSL,Credit card,2,2,0
+CUST_000247,37,45,62.44,2779.58,Month-to-Month,DSL,E-check,1,4,0
+CUST_000248,35,40,33.36,1368.33,Month-to-Month,No,Check,0,5,1
+CUST_000249,71,45,84.33,3953.64,Two Year,DSL,Check,0,4,1
+CUST_000250,51,50,35.96,1879.08,Two Year,Fiber optic,Bank transfer,2,4,1
+CUST_000251,26,27,150.0,4081.23,Two Year,No,Bank transfer,1,3,0
+CUST_000252,58,51,64.27,3230.94,One Year,DSL,Bank transfer,1,3,1
+CUST_000253,76,67,34.79,2397.96,One Year,Fiber optic,Check,4,3,1
+CUST_000254,60,48,13.56,634.67,Month-to-Month,DSL,Credit card,0,4,0
+CUST_000255,22,35,100.42,3537.22,Month-to-Month,DSL,Credit card,3,4,0
+CUST_000256,37,40,109.08,4301.49,One Year,No,E-check,4,3,1
+CUST_000257,64,59,57.68,3456.42,Month-to-Month,DSL,E-check,1,4,1
+CUST_000258,34,35,20.04,683.19,Month-to-Month,No,E-check,1,2,1
+CUST_000259,51,49,74.08,3517.97,One Year,Fiber optic,Credit card,2,2,1
+CUST_000260,56,55,64.28,3683.26,Two Year,DSL,Check,0,3,1
+CUST_000261,31,58,125.76,7003.63,Two Year,DSL,Bank transfer,3,4,0
+CUST_000262,44,52,113.77,5919.56,Two Year,DSL,Bank transfer,2,4,1
+CUST_000263,18,41,67.15,2676.3,One Year,DSL,Bank transfer,1,3,0
+CUST_000264,29,44,44.56,1870.24,One Year,DSL,Credit card,3,3,0
+CUST_000265,41,35,150.0,5006.41,One Year,DSL,Credit card,4,3,1
+CUST_000266,26,49,88.27,4184.76,Two Year,Fiber optic,Check,2,2,1
+CUST_000267,69,57,106.36,6284.88,Month-to-Month,Fiber optic,Bank transfer,4,3,0
+CUST_000268,23,28,32.65,894.31,One Year,Fiber optic,Check,2,3,0
+CUST_000269,38,45,93.58,4400.79,Two Year,Fiber optic,Credit card,3,3,0
+CUST_000270,46,38,13.86,530.98,Month-to-Month,DSL,Bank transfer,1,3,0
+CUST_000271,66,38,88.84,3354.52,One Year,DSL,Credit card,1,2,1
+CUST_000272,23,32,150.0,4838.44,One Year,Fiber optic,Bank transfer,4,2,0
+CUST_000273,62,45,63.79,2875.34,Month-to-Month,Fiber optic,Credit card,4,2,1
+CUST_000274,45,42,15.46,666.12,Month-to-Month,DSL,Credit card,2,3,1
+CUST_000275,30,42,14.33,588.77,Month-to-Month,No,Bank transfer,0,5,1
+CUST_000276,51,52,64.32,3295.49,Month-to-Month,Fiber optic,Bank transfer,3,3,1
+CUST_000277,47,45,32.4,1515.46,Month-to-Month,Fiber optic,Credit card,1,4,0
+CUST_000278,35,33,15.92,548.82,Two Year,DSL,E-check,2,3,1
+CUST_000279,46,46,115.87,5539.25,Month-to-Month,Fiber optic,Credit card,3,3,1
+CUST_000280,39,43,81.61,3480.96,One Year,Fiber optic,Check,3,2,1
+CUST_000281,46,41,50.49,2128.13,Month-to-Month,Fiber optic,Check,2,4,0
+CUST_000282,54,37,150.0,5536.87,Two Year,Fiber optic,E-check,0,3,0
+CUST_000283,68,33,26.26,866.37,Month-to-Month,No,Check,2,2,1
+CUST_000284,26,36,150.0,5240.53,One Year,Fiber optic,Credit card,0,3,1
+CUST_000285,76,54,64.75,3528.36,Two Year,DSL,Check,2,3,1
+CUST_000286,18,42,150.0,6102.27,Two Year,Fiber optic,E-check,6,3,0
+CUST_000287,42,36,94.41,3341.51,Month-to-Month,Fiber optic,Credit card,1,4,0
+CUST_000288,53,49,150.0,7610.95,Two Year,Fiber optic,Credit card,4,3,0
+CUST_000289,49,31,150.0,4513.79,One Year,DSL,Bank transfer,1,3,0
+CUST_000290,35,45,55.41,2386.52,One Year,DSL,Check,0,3,1
+CUST_000291,41,40,144.56,5533.18,Month-to-Month,No,Check,3,2,0
+CUST_000292,37,43,64.53,2897.1,Month-to-Month,Fiber optic,Bank transfer,1,2,1
+CUST_000293,36,40,76.77,3072.93,Two Year,No,Credit card,2,2,1
+CUST_000294,57,48,63.42,3016.58,One Year,Fiber optic,Credit card,4,3,1
+CUST_000295,50,35,94.38,3405.99,One Year,Fiber optic,Bank transfer,6,3,1
+CUST_000296,34,36,37.9,1410.22,Two Year,Fiber optic,E-check,3,2,0
+CUST_000297,58,56,105.02,5782.43,Two Year,No,Bank transfer,2,4,1
+CUST_000298,49,38,85.84,3325.08,Month-to-Month,Fiber optic,Bank transfer,2,2,0
+CUST_000299,57,51,128.33,6722.28,One Year,Fiber optic,Credit card,3,3,0
+CUST_000300,54,48,126.71,6176.14,Month-to-Month,DSL,Check,2,3,1
+CUST_000301,32,34,85.99,2821.8,Two Year,Fiber optic,Bank transfer,2,3,1
+CUST_000302,36,29,57.56,1731.98,One Year,Fiber optic,Check,0,3,1
+CUST_000303,56,42,55.57,2343.06,Two Year,DSL,Credit card,2,3,0
+CUST_000304,54,55,37.25,2004.18,Month-to-Month,DSL,Bank transfer,1,4,1
+CUST_000305,44,49,18.07,878.81,Month-to-Month,DSL,Bank transfer,2,4,1
+CUST_000306,46,41,57.94,2265.69,Month-to-Month,DSL,Credit card,2,2,1
+CUST_000307,64,58,47.83,2670.91,Month-to-Month,DSL,Bank transfer,2,2,0
+CUST_000308,36,40,145.3,5966.34,Month-to-Month,DSL,E-check,2,2,1
+CUST_000309,53,46,105.7,4619.1,Two Year,No,Check,2,3,1
+CUST_000310,41,53,58.62,3080.94,Month-to-Month,Fiber optic,E-check,2,2,1
+CUST_000311,41,39,91.27,3567.54,Month-to-Month,DSL,Bank transfer,1,4,0
+CUST_000312,61,59,35.39,1995.02,Two Year,DSL,E-check,2,3,0
+CUST_000313,57,50,79.38,4156.76,One Year,Fiber optic,Credit card,7,3,1
+CUST_000314,57,53,117.21,6042.0,Two Year,DSL,Credit card,0,4,0
+CUST_000315,64,43,78.45,3307.3,Month-to-Month,No,Bank transfer,0,3,0
+CUST_000316,45,64,72.87,4572.25,One Year,Fiber optic,Bank transfer,1,3,0
+CUST_000317,55,55,149.14,7981.57,Month-to-Month,Fiber optic,Check,2,3,0
+CUST_000318,40,38,133.24,4810.71,Month-to-Month,DSL,Credit card,3,3,1
+CUST_000319,49,44,116.73,5253.91,Two Year,Fiber optic,Bank transfer,0,4,1
+CUST_000320,43,40,89.71,3755.92,Month-to-Month,DSL,Check,0,3,0
+CUST_000321,46,37,106.58,3834.74,One Year,No,Bank transfer,3,4,0
+CUST_000322,53,65,42.0,2774.51,One Year,Fiber optic,Credit card,1,3,0
+CUST_000323,32,43,65.32,2876.7,Month-to-Month,DSL,Credit card,2,4,1
+CUST_000324,76,58,18.63,1118.19,Two Year,DSL,Check,0,4,0
+CUST_000325,29,34,76.58,2583.57,Month-to-Month,DSL,Check,0,3,0
+CUST_000326,26,31,94.63,2875.72,One Year,Fiber optic,Credit card,2,2,1
+CUST_000327,62,46,50.26,2271.57,Two Year,DSL,Credit card,0,3,0
+CUST_000328,56,46,150.0,7046.71,One Year,Fiber optic,Credit card,0,4,0
+CUST_000329,54,49,150.0,7582.83,Two Year,DSL,Check,2,3,0
+CUST_000330,54,40,111.1,4302.51,Month-to-Month,Fiber optic,Credit card,2,3,1
+CUST_000331,44,47,93.14,4321.08,One Year,No,Bank transfer,2,4,0
+CUST_000332,31,47,131.8,6443.59,Month-to-Month,Fiber optic,Bank transfer,3,3,1
+CUST_000333,46,46,33.95,1609.6,Two Year,Fiber optic,Credit card,3,2,1
+CUST_000334,34,35,144.81,5314.09,Two Year,DSL,Credit card,3,3,0
+CUST_000335,59,43,27.47,1211.24,Month-to-Month,DSL,Check,2,4,0
+CUST_000336,42,44,133.31,5802.99,One Year,Fiber optic,Bank transfer,3,3,0
+CUST_000337,32,24,48.61,1177.21,Month-to-Month,DSL,Credit card,3,2,0
+CUST_000338,40,42,146.07,6233.72,One Year,DSL,Check,1,3,1
+CUST_000339,51,42,150.0,6034.43,One Year,DSL,Check,1,3,0
+CUST_000340,36,25,37.0,929.12,Two Year,DSL,Credit card,0,4,1
+CUST_000341,32,43,82.25,3610.78,One Year,DSL,Credit card,1,3,1
+CUST_000342,48,44,147.34,6267.29,Month-to-Month,No,Credit card,1,2,1
+CUST_000343,48,45,77.68,3593.7,Month-to-Month,DSL,E-check,3,4,1
+CUST_000344,37,34,130.9,4487.88,Month-to-Month,Fiber optic,Bank transfer,3,3,1
+CUST_000345,37,38,92.42,3670.78,Month-to-Month,DSL,E-check,1,3,1
+CUST_000346,48,39,62.55,2327.83,Month-to-Month,Fiber optic,Check,2,3,1
+CUST_000347,23,56,60.01,3281.7,Two Year,DSL,Credit card,1,3,1
+CUST_000348,23,40,42.3,1709.18,One Year,No,Bank transfer,1,3,0
+CUST_000349,34,49,128.32,6159.76,One Year,No,Credit card,1,2,1
+CUST_000350,41,47,64.12,3078.26,Month-to-Month,DSL,Credit card,0,4,1
+CUST_000351,49,58,97.89,5824.67,Two Year,No,Bank transfer,1,4,0
+CUST_000352,67,51,94.71,4638.22,Two Year,No,Check,2,3,0
+CUST_000353,57,56,90.82,5092.97,Month-to-Month,No,E-check,2,4,0
+CUST_000354,42,47,150.0,7056.27,Two Year,No,Credit card,0,3,1
+CUST_000355,44,38,150.0,5625.49,One Year,DSL,Check,1,3,0
+CUST_000356,29,37,67.06,2588.64,Month-to-Month,Fiber optic,Bank transfer,6,3,1
+CUST_000357,44,35,138.44,5004.09,One Year,DSL,Credit card,1,2,1
+CUST_000358,40,51,128.74,6695.22,One Year,DSL,Bank transfer,1,3,1
+CUST_000359,49,46,90.29,4242.36,Month-to-Month,No,Check,1,3,0
+CUST_000360,32,49,150.0,7321.86,Two Year,DSL,E-check,1,2,1
+CUST_000361,52,43,45.68,2046.93,Two Year,Fiber optic,Check,2,3,1
+CUST_000362,67,57,27.83,1617.18,One Year,No,Bank transfer,3,2,1
+CUST_000363,43,49,142.51,7142.89,One Year,No,Credit card,1,3,0
+CUST_000364,51,53,78.63,4318.12,One Year,No,Credit card,1,3,0
+CUST_000365,55,48,141.43,6635.27,One Year,DSL,Credit card,0,5,1
+CUST_000366,38,39,148.54,5970.95,One Year,DSL,Check,3,3,0
+CUST_000367,48,43,18.74,781.26,Month-to-Month,DSL,Check,0,4,0
+CUST_000368,45,42,147.05,6080.58,One Year,DSL,Check,0,4,0
+CUST_000369,46,39,87.32,3349.5,Two Year,DSL,Credit card,2,4,1
+CUST_000370,33,34,89.61,3192.53,One Year,DSL,Bank transfer,1,3,0
+CUST_000371,45,46,97.72,4655.39,Month-to-Month,Fiber optic,Bank transfer,3,2,1
+CUST_000372,52,48,150.0,7344.84,Two Year,Fiber optic,Credit card,1,3,0
+CUST_000373,66,48,12.68,622.46,Month-to-Month,DSL,Credit card,0,5,1
+CUST_000374,59,48,76.76,3707.35,Month-to-Month,Fiber optic,Check,5,3,1
+CUST_000375,77,52,106.28,5773.65,Month-to-Month,DSL,Check,1,4,1
+CUST_000376,33,41,111.18,4556.67,Month-to-Month,DSL,Bank transfer,2,4,0
+CUST_000377,58,50,128.35,6340.82,Two Year,Fiber optic,Credit card,2,4,1
+CUST_000378,47,51,31.7,1562.22,One Year,Fiber optic,Bank transfer,1,4,0
+CUST_000379,77,69,51.92,3685.01,Month-to-Month,Fiber optic,Bank transfer,0,3,1
+CUST_000380,32,34,72.26,2514.44,Two Year,DSL,Check,1,3,0
+CUST_000381,32,37,147.15,5381.59,Two Year,No,Bank transfer,3,3,0
+CUST_000382,36,41,58.83,2297.51,Two Year,Fiber optic,Credit card,2,3,0
+CUST_000383,18,32,39.5,1306.85,Month-to-Month,Fiber optic,Bank transfer,4,3,0
+CUST_000384,37,48,150.0,6848.22,One Year,Fiber optic,E-check,0,3,0
+CUST_000385,33,36,13.49,495.53,Two Year,No,Credit card,2,3,1
+CUST_000386,47,49,150.0,7695.64,Two Year,Fiber optic,Bank transfer,1,3,0
+CUST_000387,50,44,104.75,4580.27,Month-to-Month,Fiber optic,Credit card,4,2,1
+CUST_000388,73,45,125.99,5519.29,Month-to-Month,No,Check,0,4,0
+CUST_000389,59,41,56.37,2358.52,One Year,Fiber optic,E-check,1,2,0
+CUST_000390,36,45,14.4,668.55,Two Year,DSL,Bank transfer,1,3,1
+CUST_000391,31,41,124.63,5133.56,One Year,Fiber optic,E-check,2,2,1
+CUST_000392,52,63,139.46,9196.32,One Year,DSL,E-check,1,4,0
+CUST_000393,25,44,113.67,4777.25,Month-to-Month,DSL,E-check,1,3,0
+CUST_000394,72,66,33.0,2179.04,One Year,Fiber optic,Check,1,4,0
+CUST_000395,62,43,138.58,6089.12,Two Year,No,Check,2,3,0
+CUST_000396,37,44,117.65,5364.32,Month-to-Month,No,Credit card,1,4,0
+CUST_000397,19,33,122.63,3916.99,Two Year,DSL,Check,3,3,0
+CUST_000398,65,56,140.71,8116.16,Two Year,Fiber optic,Credit card,1,3,1
+CUST_000399,43,50,128.43,6455.35,Month-to-Month,DSL,Check,0,5,1
+CUST_000400,63,52,105.5,5429.25,One Year,No,Credit card,2,2,0
+CUST_000401,21,39,22.4,841.43,Month-to-Month,No,Check,3,4,0
+CUST_000402,36,43,93.92,4186.09,Two Year,Fiber optic,Check,2,4,0
+CUST_000403,45,38,22.96,842.58,One Year,No,Bank transfer,1,3,1
+CUST_000404,45,46,73.76,3328.42,One Year,Fiber optic,Check,2,4,1
+CUST_000405,38,37,80.39,2911.98,Two Year,Fiber optic,Credit card,3,2,1
+CUST_000406,54,49,19.24,977.78,Month-to-Month,DSL,Check,2,3,1
+CUST_000407,28,43,70.6,3088.23,Two Year,Fiber optic,Credit card,2,3,1
+CUST_000408,42,42,28.09,1214.78,One Year,Fiber optic,Credit card,3,3,0
+CUST_000409,46,36,123.15,4322.77,Month-to-Month,Fiber optic,E-check,4,4,1
+CUST_000410,52,50,150.0,7593.66,One Year,DSL,Bank transfer,6,2,0
+CUST_000411,55,43,24.15,1045.9,Two Year,No,Check,0,4,0
+CUST_000412,28,33,143.72,4900.61,Month-to-Month,DSL,Credit card,2,3,1
+CUST_000413,21,31,99.79,3219.11,Two Year,Fiber optic,Credit card,4,3,1
+CUST_000414,64,38,62.33,2252.99,Two Year,Fiber optic,Credit card,0,3,1
+CUST_000415,49,40,20.76,844.85,Month-to-Month,Fiber optic,Credit card,2,3,1
+CUST_000416,33,49,96.1,4497.86,Two Year,Fiber optic,Credit card,1,4,0
+CUST_000417,68,52,121.23,6334.76,Month-to-Month,DSL,Bank transfer,1,3,0
+CUST_000418,46,41,108.99,4373.69,Month-to-Month,DSL,Bank transfer,4,4,1
+CUST_000419,62,50,17.03,835.05,Month-to-Month,Fiber optic,Bank transfer,3,3,1
+CUST_000420,46,43,24.25,1027.42,Two Year,Fiber optic,E-check,3,3,0
+CUST_000421,75,46,73.04,3400.59,One Year,DSL,E-check,0,4,1
+CUST_000422,71,46,51.34,2322.45,Month-to-Month,Fiber optic,Credit card,2,3,1
+CUST_000423,41,33,46.79,1580.0,One Year,Fiber optic,Check,0,3,0
+CUST_000424,59,53,54.27,2848.85,One Year,Fiber optic,Credit card,2,4,0
+CUST_000425,54,50,122.49,5860.14,Month-to-Month,No,Check,2,3,1
+CUST_000426,65,61,150.0,9409.64,Two Year,DSL,Check,5,4,1
+CUST_000427,30,38,80.06,2977.1,Two Year,DSL,E-check,1,3,0
+CUST_000428,55,48,150.0,7151.59,One Year,Fiber optic,Credit card,2,2,1
+CUST_000429,60,49,66.01,3294.47,Two Year,Fiber optic,Check,1,3,1
+CUST_000430,18,26,84.37,2156.87,One Year,Fiber optic,Bank transfer,3,4,0
+CUST_000431,27,31,49.97,1480.38,Two Year,No,E-check,1,3,0
+CUST_000432,18,42,109.63,4546.41,One Year,No,Bank transfer,3,4,0
+CUST_000433,40,38,150.0,5953.34,One Year,No,Check,2,4,0
+CUST_000434,55,37,94.49,3545.68,Month-to-Month,Fiber optic,Check,3,3,0
+CUST_000435,67,52,72.11,3814.02,Two Year,Fiber optic,Check,3,2,1
+CUST_000436,46,42,110.76,4713.46,One Year,DSL,Bank transfer,0,4,0
+CUST_000437,69,53,27.21,1398.72,Month-to-Month,DSL,E-check,0,4,1
+CUST_000438,24,49,134.41,6532.3,Month-to-Month,Fiber optic,Bank transfer,1,3,1
+CUST_000439,19,27,88.47,2448.63,One Year,DSL,Check,4,3,1
+CUST_000440,44,42,80.2,3234.13,One Year,No,Bank transfer,2,3,1
+CUST_000441,50,54,110.43,5830.75,Two Year,Fiber optic,Credit card,1,4,1
+CUST_000442,44,50,116.96,5717.19,Two Year,Fiber optic,Credit card,1,3,1
+CUST_000443,18,25,20.05,497.84,Month-to-Month,DSL,Credit card,1,3,1
+CUST_000444,43,36,126.68,4779.55,Two Year,DSL,Bank transfer,2,3,0
+CUST_000445,25,41,43.87,1720.88,Month-to-Month,DSL,Bank transfer,3,3,1
+CUST_000446,55,39,131.94,5155.28,Two Year,DSL,Credit card,3,3,0
+CUST_000447,50,57,150.0,8275.86,Two Year,DSL,Check,3,4,1
+CUST_000448,30,42,134.81,5928.52,One Year,Fiber optic,E-check,1,3,1
+CUST_000449,37,35,104.82,3526.83,Two Year,No,Bank transfer,1,3,1
+CUST_000450,29,37,82.82,3034.8,Month-to-Month,No,Credit card,1,3,1
